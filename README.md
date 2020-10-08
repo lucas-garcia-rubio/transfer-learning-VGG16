@@ -1,4 +1,5 @@
 O dataset precisa estar separado da seguinte maneira:
+
 data/
 data/train/
 data/train/classe1
